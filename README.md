@@ -33,7 +33,7 @@ I enjoy building clean, scalable applications and continuously improving my back
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=manji5&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
