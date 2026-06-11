@@ -1,12 +1,47 @@
-<h2 align="center"/> Hi there 👋 </>
+<h1 align="center">Hi there 👋 I'm Enes</h1>
+
 <p align="center">
-<p><h3>I am Enes from Turkey, and I am currently studing Istanbul University. I do content on Development. I really enjoy learning languages like Java, C++ and Python. I started the software with frontend languages, then I went to the backend because the backend caught my attention. I am currently using Java language.</></p>
+Software Developer from Turkey 🇹🇷 | Computer Programming Student at Istanbul University
+</p>
 
+---
 
-## Skills and Experience
-<img align="left" alt="Java" width="30px" src="https://cdn-icons-png.flaticon.com/512/143/143687.png"/>
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/python/python.png"/>
-<img align="left" width="26"src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++ Logo"/>
-<img align="left" alt="Eclipse" width="30px" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/eclipse-icon.png"/>
-<img align="left" alt="Sublime Text" width="30px" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/sublime-text-icon.png"/>
-<img align="left" alt="Visual Stuido Code" width="30px" src="https://icons.iconarchive.com/icons/pictogrammers/material/256/microsoft-visual-studio-code-icon.png"/>
+## 🚀 About Me
+
+I am a software developer who started with frontend development and later shifted my focus to backend development.  
+I enjoy building clean, scalable applications and continuously improving my backend skills.
+
+- 💻 Currently focused on Java backend development  
+- 🌱 Learning advanced backend architectures and system design  
+- 🎯 Interested in building real-world scalable applications  
+- ⚡ Passionate about continuous learning and improvement  
+
+---
+
+## 🛠️ Tech Stack
+
+<p>
+<img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="30"/>
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" width="30"/>
+<img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" width="30"/>
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/spring-boot/spring-boot.png" width="30"/>
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" width="30"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Contact
+
+- [LinkedIn](https://www.linkedin.com/in/fatih-enes-coban-manji5/)
+
+---
+
+⭐ Always learning, always building.
